@@ -1,0 +1,9 @@
+D:\store\store\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+D:\store\store\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\store\store\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\store\store\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+D:\store\store\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+D:\store\store\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+D:\store\store\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+D:\store\store\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+D:\store\store\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
